@@ -19,3 +19,10 @@
 -9 features, points
 -Coverage looks good
 -Contain Null
+
+## CRS and preparation
+- All source layers arrived in EPSG:4326
+- Study area: Lagos Island, extracted from GRID3 lga
+- All layers clipped to study area, then reprojected to EPSG:32631 (UTM 31N)
+- Area check: Lagos Island 5.05 km2, matches published figure
+- Working files in data/processed/study area, raw files untouched
