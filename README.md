@@ -1,3 +1,2 @@
 # Geodev-lab-project
-Where are populations in Nigeria most vulnerable to loss of access to essential healthcare during climate-related hazards?
-Built over twelve months with Geodev-lab Africa cohort one. See "my project brief.md" for the full project brief
+Where in Nigeria are populations most exposed to a combination of flood risk and poor geographic access to primary healthcare facilities, and how does this exposure map onto population density?
