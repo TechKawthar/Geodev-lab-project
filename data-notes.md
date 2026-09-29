@@ -23,21 +23,16 @@ N10_E10: 0°N–10°N, 10°E–20°E
 -41,000+ feature 
 -PHCs Extracted including 39000+ feature
 
-##  n
+## Worldpop NGA_population_v2
+-Source: https://data.worldpop.org/repo/wopr/NGA/population/v2.1/
+-Downloaded: 28/09/2026
+-Coverage looks good
 
-## OSM highways, extracted via QuickOSM
+## NGA_Road
 -Query: highway,=* within lagos
 -Extracted: 08/09/2026
 -13626 features, lines 
 -Coverage looks good
-
-## OSM HEALTH FACILITIES, EXTRACTED VIA QuickOSM
--Query: health facilities, =* within surulere
--Extracted: 08/09/2026
--9 features, points
--Coverage looks good
--Contain Null
-
 
 ## CRS and preparation
 - All source layers arrived in EPSG:4326
