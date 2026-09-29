@@ -21,16 +21,16 @@ N10_E10: 0°N–10°N, 10°E–20°E
 -Source: https://data.grid3.org/datasets/827e3638dc204f4b9ddbbd19b00954d6/about
 -Downloaded:28/09/2026
 -41,000+ feature 
--PHCs Extracted including 39000+ feature
+- PHCs extracted, including 39000+ feature
 
 ## Worldpop NGA_population_v2
 -Source: https://data.worldpop.org/repo/wopr/NGA/population/v2.1/
 -Downloaded: 28/09/2026
 -Coverage looks good
 
-## NGA_Road
--Query: highway,=* within lagos
--Extracted: 08/09/2026
+## NGA_Road and Waterways via OpenStreetMap 
+-Source: https://download.geofabrik.de/africa/nigeria-latest-free.gpkg.zip
+-Downloaded: 08/09/2026
 -13626 features, lines 
 -Coverage looks good
 
