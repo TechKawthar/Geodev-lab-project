@@ -1,7 +1,7 @@
 # My project brief 
 
 ## The Question
-Where are populations in Nigeria most vulnerable to loss of access to essential healthcare during climate-related hazards?
+Where in Nigeria are populations most exposed to a combination of flood risk and poor geographic access to primary healthcare facilities, and how does this exposure map onto population density?
 
 ## Why It Matters
 Public health planners at the Federal Ministry of Health and national disaster response agencies (such as NEMA) require clear, real-time spatial intelligence to deploy emergency medical services during severe weather events. Without route-level access modeling, disaster response teams struggle to identify communities isolated by seasonal flooding, leaving at-risk populations stranded without emergency medical care. By isolating flood-prone, low-accessibility communities before disaster strikes, planning agencies can pre-position mobile medical units and prioritize resilient infrastructure investments.
@@ -15,8 +15,6 @@ Public health planners at the Federal Ministry of Health and national disaster r
 
 4. Flood occurrence: Historical Water Extent & Surface Water: 30-meter resolution water recurrence and maximum surface water extent rasters.
 
-5. Topography & Elevation: 30-meter digital elevation model (DEM) for terrain and slope derivation.
-
 6. Administrative Boundaries: Subnational vector boundaries (State, LGA, and Ward levels).
 
 ## Where each Datasetn comes from
@@ -27,9 +25,7 @@ Public health planners at the Federal Ministry of Health and national disaster r
 
 3. Routable Transport Network: Geofabrik OpenStreetMap Extracts — https://download.geofabrik.de/africa/nigeria.html
 
-4.  Water Extent: Google Earth Engine / JRC Global Surface Water — https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater
-
-5. Topography & Elevation: OpenTopography Copernicus GLO-30 DEM — https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3
+4.  Water Extent: JRC Global Surface Water — https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater
 
 6. Administrative Boundaries: HDX / OCHA Nigeria Administrative Boundaries — https://data.humdata.org/dataset/cod-ab-nga
 
