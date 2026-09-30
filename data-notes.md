@@ -36,7 +36,6 @@ N10_E10: 0°N–10°N, 10°E–20°E
 
 ## CRS and preparation
 - All source layers arrived in EPSG:4326
-- Study area: Lagos Island, extracted from GRID3 lga
-- All layers clipped to study area, then reprojected to EPSG:32631 (UTM 31N)
-- Area check: Lagos Island 5.05 km2, matches published figure
-- Working files in data/processed/study area, raw files untouched
+- Study area: Nigeria, extracted from GRID3 LGA
+- All layers clipped to study area, then reprojected to EPSG:102022
+- Working files in data/processed/study area; raw files untouched
