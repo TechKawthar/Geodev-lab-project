@@ -1,5 +1,5 @@
 # Month 1 Summary
-![GEODEV_study_area](map.png)
+![GEODEV_study_area](GEODEV_study_area%20map.png)
 ## Question
 Where in Ibadan Metropolis are populations most exposed to both flood risk and poor geographic access to primary healthcare facilities, and how does this exposure map onto population density?
 
