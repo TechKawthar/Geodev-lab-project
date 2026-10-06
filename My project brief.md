@@ -29,5 +29,5 @@ Flooding in Nigeria is no longer a distant risk but an active, worsening crisis 
 
 6. Administrative Boundaries: HDX / OCHA Nigeria Administrative Boundaries — https://data.humdata.org/dataset/cod-ab-nga
 
-## What You Would Build
+## What I Would Build
 An automated, web-based GeoAI dashboard and API service that dynamically re-routes network access models during severe weather events. The system takes satellite-derived rainfall and flood updates, dynamically intersects them with the road network, and flags communities facing severe travel-time delays to primary care. Local health officers can query specific local government areas (LGAs) to view automated vulnerability scores and receive automated alerts when critical access corridors are breached.
