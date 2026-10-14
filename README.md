@@ -6,3 +6,6 @@ Where in the Ibadan metropolis are populations most exposed to a combination of 
 
 # Week 6: 
 Set up the project with uv and added pandas. check.py prints the pandas version.
+
+# week 7 
+Analyse.py reads wards.csv, converts each area and classifies each ward.
