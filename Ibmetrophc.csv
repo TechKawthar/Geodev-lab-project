@@ -1,0 +1,269 @@
+Ibadan Metropolis - Primary Health Facilities Dataset,,,,,,,,
+Filtered for 5 Core LGAs | Total Facilities: 265,,,,,,,,
+,,,,,,,,
+Unique ID,Facility Name,LGA,Ward,Facility Type,Ownership,Status,Latitude,Longitude
+SN_01834C447C,Adeyemo Memorial Hospital,Ibadan North East,Oke Adu,Primary Health Center,Private,Functional,7.389008,3.926883
+SN_03B0E819F9,7 Up Staff Clinic,Ibadan South West,Ring Road/Challenge/Oluyole,Health Post,Public,Functional,7.356506,3.847717
+SN_E5E014F487,Agbokojo Primary Health Centre,Ibadan South West,Agbokojo,Primary Health Center,Public,Unknown,7.379659,3.886145
+SN_086FB243C4,Passionate Medical Center,Ibadan North West,Inalende,General Hospital,Private,Functional,7.398763,3.890545
+SN_0AE667F064,Gods Faithfullness Hospital,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Functional,7.364492,3.881515
+SN_0C00409775,Bembo Hospital,Ibadan North East,Aperin,Primary Health Center,Private,Functional,7.375052,3.914406
+SN_0C53FF630C,Christ Way Maternity And Child Welfare Clinic,Ibadan South East,Challenge,Primary Health Clinic,Private,Functional,7.346450,3.883640
+SN_0D96E3C6AF,Saint Lucia Limited Hospital,Ibadan South West,Alesinloye,Primary Health Clinic,Private,Functional,7.377168,3.882137
+SN_0E31F13728,Delight Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.349348,3.874772
+SN_E0A78CE068,Odo-Osun Health Post,Ibadan North East,Odo Osun,Health Post,Public,Unknown,7.380697,3.901642
+SN_0FDD26343C,Lolade Maternity,Ibadan South East,Odinjo,Primary Health Clinic,Private,Functional,7.354737,3.919600
+SN_10CD8B8CB5,Victory Hospital,Ibadan South West,Oke Ado/Liberty,Primary Health Clinic,Private,Functional,7.365982,3.879352
+SN_12667204E3,T Z Hospital,Ibadan North East,Basorun,Primary Health Center,Private,Functional,7.402923,3.927415
+SN_12E83E1DF0,Tofunmi Hospital,Ibadan North East,Basorun,Primary Health Center,Private,Functional,7.394750,3.924415
+SN_169C91AF5C,Koloko Primary Health Center,Ibadan North East,Aperin,Primary Health Center,Public,Functional,7.365266,3.925798
+SN_19059B9B72,Alafia Loju Maternity Home,Ibadan South East,Molete,Primary Health Center,Private,Functional,7.349343,3.900139
+SN_72923C3E93,Ode Aje Health Centre,Ibadan North East,Odeaje,Health Post,Public,Unknown,7.381933,3.915892
+SN_1BBFF4B3EF,Ojagbo Primary Health Centre,Ibadan North East,Oja Gbo,Primary Health Center,Public,Functional,7.373113,3.906054
+SN_1DA59E25C8,Manna Medical Center,Ibadan North East,Oke Adu,Primary Health Center,Private,Functional,7.391558,3.924127
+SN_BA0C39A200,Oke-Ayo Centre Primary Health Care,Ibadan South West,Apata/Odo Ona,Primary Health Center,Public,Unknown,7.374115,3.851665
+SN_866E9CBA76,Abebi / Alawo Primary Health Centre,Ibadan North West,Abebi,Primary Health Center,Public,Unknown,7.388777,3.891809
+SN_23BECC360A,Praise Hospital,Ibadan South East,Owode,Primary Health Clinic,Private,Functional,7.343010,3.909040
+SN_265C4B7175,Alake Maternity Centre,Ibadan South East,Molete,Primary Health Clinic,Private,Functional,7.349304,3.900085
+SN_CAEC439A4B,Eleyele Primary Health Centre,Ibadan North West,Eleyele,Primary Health Center,Public,Unknown,7.416853,3.868295
+SN_28B969CCD0,Sam Xesus Devorah Hospital,Ibadan North West,Eleyele,Primary Health Clinic,Private,Not-Functional,7.421311,3.874734
+SN_29C664C5AC,Government Chest Hospital,Ibadan South West,Alesinloye,Primary Health Center,Public,Functional,7.394840,3.872083
+SN_481895399F,Ayeye Primary Health Centre,Ibadan North West,Bere,Primary Health Center,Public,Unknown,7.380777,3.893987
+SN_2BA45F5EF3,Adegoke Clinic And Maternity,Ibadan South East,Asanike,Primary Health Clinic,Private,Not-Functional,7.367338,3.913968
+SN_2D49387359,Salaam Nursing And Maternity,Ibadan South West,Foko/Ologede,Primary Health Clinic,Private,Not-Functional,7.375090,3.885123
+SN_6863BCA4ED,Samonda Primary Health Centre,Ibadan North,Samonda,Primary Health Center,Public,Unknown,7.432493,3.904957
+SN_2F9050FAD6,El Bethel Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.370475,3.854177
+SN_F4E1B19BA6,Adifase Tuberculusis And Leprosy Clinic,Ibadan South West,Apata/Odo Ona,Primary Health Center,Public,Unknown,7.386875,3.828947
+SN_2FEC2FE951,Tristate Hospital,Ibadan North East,Basorun,Primary Health Center,Private,Functional,7.401009,3.926354
+SN_3013F39855,Alesinloye Primary Health Care Center,Ibadan South West,Alesinloye,Primary Health Center,Public,Functional,7.388605,3.871090
+SN_3154C61E59,Kejide Hospital,Ibadan North West,Ekotedo,Primary Health Clinic,Private,Not-Functional,7.391422,3.882903
+SN_47A4303BBD,Iyana Court Primary Health Centre,Ibadan South East,Owode,Primary Health Center,Public,Unknown,7.359511,3.904127
+SN_3242281B40,Tobi Medical Center,Ibadan South East,Challenge,Primary Health Clinic,Private,Functional,7.344832,3.883767
+SN_326FA2BE92,Motilayo Hospital,Ibadan North East,Aperin,Primary Health Clinic,Private,Functional,7.376256,3.912338
+SN_3402BDDB76,Molisa Hospital And Maternity,Ibadan South East,Owode,Primary Health Clinic,Private,Functional,7.344482,3.914124
+SN_345FE524FD,Montana Medical Center,Ibadan South East,Challenge,Primary Health Center,Private,Functional,7.346070,3.878728
+SN_35C2CDF217,West Wind Hospital Maternity,Ibadan North West,Olopomewa,Primary Health Clinic,Private,Functional,7.417962,3.858359
+SN_36EBABC82C,Joy Hospital And Maternity,Ibadan South West,Oke Ado/Liberty,Primary Health Clinic,Private,Functional,7.366535,3.877450
+SN_37806D86E4,Immaculate Hospital,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Functional,7.367640,3.884613
+SN_38ED335ACC,Zoe Mission Specialist Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.365150,3.848318
+SN_3B42E99217,Ramoth Gilead Hospital,Ibadan South West,Oke Ado/Liberty,Primary Health Clinic,Private,Functional,7.368668,3.876882
+SN_3E873012DA,Jericho Hospital Specialist,Ibadan South West,Alesinloye,Primary Health Clinic,Private,Functional,7.393310,3.873088
+SN_4156832D82,Benla Hospital,Ibadan North East,Oja Gbo,Primary Health Clinic,Private,Functional,7.378887,3.909882
+SN_44C9374230,Premier Hospital And Ultra Sound  Center,Ibadan South West,Oke Ado/Liberty,Primary Health Clinic,Private,Functional,7.365932,3.878576
+SN_49C7814E2F,Femi Specialist Hospital,Ibadan North,Bashorun,Primary Health Clinic,Private,Functional,7.405942,3.927287
+SN_4DA944110A,St Elizabeth Specialist Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Not-Functional,7.347025,3.868360
+SN_4E84C8FD89,All Souls Medical Center,Ibadan South West,Oke Ado/Liberty,Primary Health Clinic,Private,Not-Functional,7.372830,3.878728
+SN_4F4784FE8B,Oyo State Broadcasting Corporation Clinic,Ibadan North East,Basorun,Primary Health Clinic,Public,Functional,7.411170,3.932620
+SN_51EEF5F9D5,Bilal Hospital Maternity,Ibadan North East,Basorun,Primary Health Center,Private,Functional,7.401430,3.926997
+SN_221B90911B,Odo-Ona Centre Primary Health Care,Ibadan South West,Apata/Odo Ona,Primary Health Center,Public,Unknown,7.381177,3.851572
+SN_24120FC819,Sharp Corner Primary Health Centre,Ibadan South West,Oke Ado/Liberty,Primary Health Center,Public,Unknown,7.375688,3.878394
+SN_598BB17D8C,Alpha And Omega N T C Maternity And Child Welfare Clinic,Ibadan South West,Oke Ado/Liberty,Primary Health Clinic,Private,Functional,7.372775,3.877310
+SN_5B72C57F08,Jolaleke Hospital Specialist,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.350405,3.862758
+SN_0498A4CD08,Barika Primary Health Centre,Ibadan North,Agbowo,Primary Health Center,Public,Unknown,7.447943,3.911046
+SN_5EC944A83C,Debip Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.359073,3.866003
+SN_60821003CD,St Joseph Medical Center,Ibadan North West,Afonta,Primary Health Clinic,Private,Functional,7.395325,3.883301
+SN_35FFFBB174,Bode Primary Health Centre,Ibadan South West,Popoyemoja,Primary Health Center,Public,Unknown,7.363203,3.889315
+SN_65DDDE3FD8,Funminiyi Maternity Centre,Ibadan North West,Eleyele,Primary Health Clinic,Private,Functional,7.418171,3.859579
+SN_923175657E,Ibadan North Staff Clinic,Ibadan North,Agodi,Clinic,Public,Unknown,7.396784,3.919380
+SN_6FB307A2F8,Hope Medical Centre,Ibadan South East,Molete,Primary Health Clinic,Private,Not-Functional,7.356535,3.901907
+SN_C5102935F0,Ori-Eru Primary Health Centre,Ibadan North West,Oritamerin,Primary Health Center,Public,Unknown,7.381316,3.891453
+SN_727D0EEBB0,Jola Olu Clinic,Ibadan North East,Oke Adu,Primary Health Center,Private,Functional,7.396484,3.923889
+SN_81765D22B5,Oganla Iware Primary Health Centre,Ibadan North West,Ekotedo,Primary Health Center,Public,Unknown,7.393610,3.886130
+SN_7B7E37C7F8,Abdullah Medical Center,Ibadan South East,Owode,Primary Health Clinic,Private,Functional,7.350891,3.910889
+SN_7BD66C9AB5,St. Mary Health Post Primary Health Centre,Ibadan North East,Odeaje,Primary Health Center,Public,Unknown,7.386201,3.918498
+SN_A5D7242FB4,Akuro Primary Health Centre,Ibadan South West,Foko/Ologede,Primary Health Center,Public,Unknown,7.368108,3.885405
+SN_537EC28084,Bodija Health Centre,Ibadan North,Agbowo,Primary Health Center,Public,Unknown,7.439700,3.920203
+SN_8640A26F53,Lily Hospital And Maternity,Ibadan North West,Eleyele,Primary Health Clinic,Private,Functional,7.418908,3.874223
+SN_86E9009BBD,Group Medical Hospital,Ibadan North,Ago Tapa,Primary Health Clinic,Private,Functional,7.401009,3.891601
+SN_87F81E8708,Imperial Hospital,Ibadan North,Yemetu,Primary Health Clinic,Private,Not-Functional,7.387670,3.899981
+SN_88BEC279DD,Oyo State House Of Assembly Clinic,Ibadan North,Old Bodija,Primary Health Clinic,Public,Functional,7.408170,3.909384
+SN_85BEAEBB19,Agbowo Primary Health Centre,Ibadan North,Agbowo,Primary Health Center,Public,Unknown,7.449504,3.913692
+SN_8E62F5FD84,Omotayo Clinic,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Functional,7.367042,3.882915
+SN_F7C596C08B,Omiyale Primary Health Centre,Ibadan South East,Oranyan,Primary Health Center,Public,Unknown,7.372154,3.898525
+SN_97864B9E29,Koloko Primary Health Centre,Ibadan North East,Aperin,Primary Health Center,Public,Unknown,7.372230,3.924688
+SN_8F718E6928,Fijabi Primary Health Centre,Ibadan South West,Oritamerin,Primary Health Center,Public,Functional,7.376933,3.894447
+SN_919DA55BDE,Elekuro Akinbiyi Palace Health Center,Ibadan South East,Asanike,Primary Health Center,Public,Not-Functional,7.369873,3.909119
+SN_E5D5C46245,Oniyanrin Comprehensive Health Centre,Ibadan North West,Inalende,Primary Health Center,Public,Unknown,7.389563,3.892701
+SN_95699A8264,Prospect Medical Center,Ibadan South East,Molete,Primary Health Clinic,Private,Functional,7.346508,3.897268
+SN_AE05155589,Ogunpa Primary Health Centre,Ibadan North West,Ekotedo,Primary Health Center,Public,Unknown,7.388037,3.884169
+SN_9B086BCA70,Mercy Medical Center,Ibadan South East,Ita-Ege,Primary Health Clinic,Private,Functional,7.367666,3.904511
+SN_9DFD33B443,El Rophi,Ibadan South West,Ring Road/Challenge/Oluyole,General Hospital,Private,Functional,7.351108,3.876443
+SN_9E31975D7C,Anike Child Welfare Clinic,Ibadan North West,Ekotedo,Primary Health Clinic,Private,Functional,7.390686,3.885925
+SN_9ED49DCFA6,The Pizzazz Hospital,Ibadan South East,Challenge,Primary Health Clinic,Private,Functional,7.333501,3.874217
+SN_D1DFD501B7,Awodife Primary Health Centre,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Center,Public,Unknown,7.350808,3.875050
+SN_9FFF9A3895,Atipe Primary Health Center,Ibadan North East,Atipe,Primary Health Center,Public,Not-Functional,7.385932,3.909680
+SN_A4B98333FE,Pauline Canadian Hospital,Ibadan North West,Eleyele,Primary Health Clinic,Private,Functional,7.413570,3.864760
+SN_1AEC8936B6,Foko Primary Health Centre,Ibadan South West,Foko/Ologede,Primary Health Center,Public,Unknown,7.376133,3.886940
+SN_A7533C9C43,Likeminds Fetal Hospital,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Functional,7.362922,3.880577
+SN_A953FBD3DE,Keva Specialist Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.372417,3.858412
+SN_A95922BD7A,Glory Of God Clinic And Maternity Centre,Ibadan South East,Adesola,Primary Health Clinic,Private,Functional,7.360943,3.923120
+SN_ACB58FB6E0,Fortune Hospital And Dental Centre,Ibadan South West,Ring Road/Challenge/Oluyole,General Hospital,Private,Functional,7.352008,3.875397
+SN_13E6F8B81C,Alafara Primary Health Centre,Ibadan North East,Alafara,Primary Health Center,Public,Unknown,7.382710,3.904997
+SN_AE72C0515E,Topmed Medical Service,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.370280,3.859030
+SN_B08D99245F,Abiyelomo Clinic,Ibadan South East,Owode,Primary Health Clinic,Private,Functional,7.358197,3.908742
+SN_B1B91CE27D,Omowumi Eye Clinic,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Not-Functional,7.370105,3.882513
+SN_B2067BD76E,Origbegi Health Center,Ibadan North West,Asukuna,Primary Health Center,Public,Functional,7.382637,3.893417
+SN_E96FB26AB2,Ago Tapa Primary Health Centre,Ibadan North,Ago Tapa,Primary Health Center,Public,Unknown,7.402600,3.892115
+SN_B372DBB374,Oluwo Nla Primary Health Center,Ibadan North,Bashorun,Primary Health Center,Public,Functional,7.415320,3.932396
+SN_B3A0379625,Ola Oluwa Medical Center,Ibadan South West,Oke Ado/Liberty,Primary Health Clinic,Private,Not-Functional,7.362700,3.875017
+SN_B60E57F046,Macedonia Hospital,Ibadan North East,Oke Adu,Primary Health Center,Private,Functional,7.391111,3.927692
+SN_B63A30AF61,Ridolahi Maternity Clinic,Ibadan South East,Odinjo,Primary Health Clinic,Private,Functional,7.360418,3.912170
+SN_D675A42723,Oje Elewa Primary Health Centre,Ibadan North East,Oje,Primary Health Center,Public,Unknown,7.384743,3.907931
+SN_B822A4C82C,Blossom Care Family Health Hospital,Ibadan North West,Ekotedo,Primary Health Clinic,Private,Functional,7.387579,3.879559
+SN_B951DD14EB,New Day Hospital,Ibadan South East,Owode,Primary Health Clinic,Private,Functional,7.345093,3.912720
+SN_B9D5244B61,Awoye Ajike Clinic And Maternity Centre,Ibadan South East,Asanike,Primary Health Clinic,Private,Functional,7.368530,3.914917
+SN_BA053DAFCD,Total Diagnostic Health Care,Ibadan North,Yemetu,Primary Health Clinic,Private,Not-Functional,7.388116,3.899803
+SN_DF0A293FE5,Koseunti Primary Health Centre,Ibadan North West,Olopomewa,Primary Health Center,Public,Unknown,7.422204,3.839424
+SN_A1FC867D99,Sabo Primary Health Centre,Ibadan North,Sabo,Primary Health Center,Public,Unknown,7.402254,3.885613
+SN_C47A94F952,Samaritan Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.353785,3.863990
+SN_C774590512,New Era Hospital And Maternity,Ibadan North West,Eleyele,Primary Health Clinic,Private,Functional,7.420193,3.859935
+SN_C86E40ACAF,The Horizon Hospital,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Functional,7.364263,3.879333
+SN_9EE60B930F,Isale Osi Primary Health Centre,Ibadan South West,Isale Osi/Oja'Ba,Primary Health Center,Public,Unknown,7.374100,3.891191
+SN_CCB13730F5,Jesus Power Clinic,Ibadan South East,Molete,Primary Health Center,Private,Functional,7.356689,3.898071
+SN_FB6EE15589,Oritaperin Health Centre,Ibadan South East,Adesola,Primary Health Center,Public,Unknown,7.365207,3.919920
+SN_CDAD4D0DBA,Adeitan Memorial Maternity Health Center,Ibadan South East,Odinjo,Primary Health Center,Private,Functional,7.356957,3.917058
+SN_D07A07CE8E,The Vine Hospital And Maternity Center,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.364247,3.850347
+SN_D3532DA212,Chief Shepherd Mission Hospital,Ibadan North West,Eleyele,Primary Health Clinic,Private,Functional,7.421053,3.878954
+SN_73A2125EA6,Ajose Primary Health Centre,Ibadan North,Nalende,Primary Health Center,Public,Unknown,7.393808,3.895046
+SN_D3B30FF262,Heritage Hospital,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Not-Functional,7.357085,3.879245
+SN_D4D81BFFAE,Ayo Hospital And Ultrasound Care,Ibadan North West,Afonta,Primary Health Clinic,Private,Functional,7.399322,3.871246
+SN_D4F5B14EC1,Health Is Wealth Clinic,Ibadan North,Old Bodija,Primary Health Center,Public,Not-Functional,7.406420,3.912406
+SN_D649B4E7CC,Hope Medical Centre,Ibadan South West,Apata/Odo Ona,Primary Health Clinic,Private,Functional,7.378153,3.854930
+SN_DB5079D7A1,Khalifat Clinic,Ibadan North East,Atipe,Primary Health Clinic,Private,Functional,7.381693,3.907020
+SN_DDA3E3CC1F,Kejide Limited Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.348102,3.878235
+SN_DDE9F65397,Lead City International School Clinic,Ibadan North West,Afonta,Primary Health Clinic,Private,Functional,7.400032,3.866853
+SN_E3771DC0A3,Oke-Bola Primary Health Centre,Ibadan South West,Alesinloye,Primary Health Center,Public,Unknown,7.383415,3.877449
+SN_6840BB86EE,Agbongbon Primary Health Centre,Ibadan South East,Ita-Ege,Primary Health Center,Public,Unknown,7.366819,3.899531
+SN_E33FF1ABC6,Algon Comprehensive Health Center,Ibadan South East,Molete,Primary Health Clinic,Public,Functional,7.346318,3.893208
+SN_F0D3D8AFA9,Lanioka Primary Health Centre,Ibadan South East,Ita-Ege,Primary Health Center,Public,Unknown,7.369820,3.902149
+SN_E58D082FEF,Breeze Maternity Laboratory,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.360107,3.869080
+SN_70E12C2A66,Aremo Health Centre,Ibadan North East,Aperin,Primary Health Center,Public,Unknown,7.378163,3.915732
+SN_E94D5621A8,Anglican Hospital,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Private,Functional,7.356217,3.886406
+SN_F54764C8A6,Akere Primary Health Centre,Ibadan South West,Oritamerin,Primary Health Center,Public,Unknown,7.376492,3.894607
+SN_F0ABDF53D2,Lade Hospital,Ibadan South West,Foko/Ologede,Primary Health Clinic,Private,Functional,7.374851,3.889743
+SN_35C6EC81E3,Adifase Primary Health Centre,Ibadan South West,Apata/Odo Ona,Primary Health Center,Public,Unknown,7.386915,3.828975
+SN_F2D86221FD,Iyanu Ayo Clinic And Maternity,Ibadan North East,Odeaje,Primary Health Center,Private,Functional,7.379861,3.915440
+SN_02E28B4A87,Molete Primary Health Centre,Ibadan South West,Molete/Oke Ado,Primary Health Center,Public,Unknown,7.360431,3.889278
+SN_CFB59713D3,Onireke Primary Health Centre,Ibadan North West,Afonta,Clinic,Public,Unknown,7.392492,3.879086
+SN_909D3DCDA6,Obasa Primary Health Centre,Ibadan North,Old Bodija,Primary Health Center,Public,Unknown,7.414154,3.898097
+SN_F8FF13EC30,Iye Hospital,Ibadan South East,Challenge,Primary Health Clinic,Private,Functional,7.341492,3.877686
+SN_FDE4C9CF52,Oluyole Primary Health Care Center,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Center,Public,Functional,7.369080,3.859680
+SN_2061B3AC35,Aliamudulilahi Maternity,Ibadan North West,Oritamerin,Health Post,Private,Not-Functional,7.381818,3.890247
+SN_5A35FAD1D3,Oreofe Maternity And Child Welfare Clinic,Ibadan South East,Molete,Primary Health Clinic,Private,Functional,7.351501,3.900696
+SN_31D56DCBA0,Ashi Comprehensive Health Center,Ibadan North,Bashorun,Primary Health Center,Public,Functional,7.426514,3.930908
+SN_4F10789DEA,Balaro Primary Health Centre,Ibadan South East,Owode,Primary Health Center,Public,Unknown,7.354548,3.905302
+SN_372BDA0F9B,Bodija Center Hospital,Ibadan North,Agbowo,Hospital,Public,Functional,7.437843,3.915652
+SN_39382C4629,St Macrina Hospital Limited,Ibadan South West,Ring Road/Challenge/Oluyole,Hospital,Private,Functional,7.354437,3.884735
+SN_3CA53007B2,Ibadan Northeast Primary Health Center,Ibadan North East,Basorun,Primary Health Center,Public,Functional,7.404158,3.933708
+SN_4EB213D5B8,Abimbola Hospital,Ibadan North East,Atipe,Hospital,Private,Functional,7.356357,3.925432
+SN_E85F4BB82D,Oke Adu Primary Health Centre,Ibadan North East,Oke Adu,Primary Health Center,Public,Unknown,7.389972,3.916965
+SN_5AC6437698,Duntan Hospital And Maternity Clinic,Ibadan South West,Ita Aregbeomo,Hospital,Private,Functional,7.366818,3.890019
+SN_5C87849728,Ebimacc Maternity And Health Clinic,Ibadan South East,Challenge,Primary Health Clinic,Private,Functional,7.338990,3.872143
+SN_1826FF8490,Aperin Oniyere Primary Health Center,Ibadan South East,Adesola,Primary Health Center,Public,Functional,7.363892,3.919128
+SN_5EB994E960,Ifesowapo Abayomi Primary Health Center,Ibadan North East,Basorun,Primary Health Center,Public,Functional,7.408941,3.941014
+SN_6AFEDA6512,Motilayo Medical Center,Ibadan North East,Aperin,Medical Center,Private,Functional,7.365605,3.929103
+SN_EA4BA3A025,Alawaye Hospital,Ibadan North East,Basorun,Primary Health Clinic,Public,Functional,7.404552,3.939388
+SN_7082982F77,Beta Life Hospital,Ibadan South West,Oke Ado/Liberty,Hospital,Private,Functional,7.364870,3.882118
+SN_F354A9338D,Lanark Hospital Specialist,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.356689,3.866882
+SN_B322E9CB3D,Boluwaji Primary Health Centre,Ibadan South East,Molete,Primary Health Center,Public,Unknown,7.343333,3.905762
+SN_462611298E,All For God Maternity Health Center,Ibadan North West,Inalende,Health Post,Private,Not-Functional,7.393626,3.889703
+SN_65D4294324,Oyo State College Of Science Health Clinic,Ibadan North West,Eleyele,Primary Health Clinic,Public,Functional,7.410522,3.867493
+SN_884709BAE1,Inland Hospital,Ibadan North,Yemetu,Primary Health Clinic,Private,Not-Functional,7.385419,3.899660
+SN_53BA83A7BD,Triumph Medical Laboratory,Ibadan South West,Foko/Ologede,Primary Health Clinic,Private,Not-Functional,7.374228,3.882953
+SN_55CE447B6A,Molete Primary Health Care Center,Ibadan South East,Molete,Primary Health Center,Public,Functional,7.357180,3.888369
+SN_BA9EB131C6,Goodnews Hospital,Ibadan South East,Challenge,Hospital,Private,Functional,7.357290,3.888825
+SN_BAE5DC5B43,St Martina Hospital,Ibadan North West,Afonta,Hospital,Private,Functional,7.397002,3.883177
+SN_BC7DE8898D,Ajobo Health Center,Ibadan North East,Oja Gbo,Health Center,Public,Functional,7.373640,3.907338
+SN_C6589CA7AE,Mana Hospital,Ibadan North East,Oke Adu,Hospital,Private,Unknown,7.393120,3.925180
+SN_A77F36A71E,Oke Itunu Primary Health Centre,Ibadan North,Oke Itunu,Primary Health Center,Public,Unknown,7.415944,3.890580
+SN_CC9E78D719,Omoniyi Clinic,Ibadan South West,Molete/Oke Ado,Clinic,Private,Functional,7.384007,3.880050
+SN_5216FCF6F1,Oke Ado Hospital,Ibadan South West,Alesinloye,Primary Health Clinic,Private,Functional,7.378272,3.879880
+SN_D7E4D10364,Odontoid Medical Service,Ibadan South East,Molete,Medical Center,Private,Functional,7.349967,3.902627
+SN_DE74AAED6C,Odunlakin Specialist Hospital,Ibadan South West,Molete/Oke Ado,General Hospital,Private,Functional,7.353897,3.877230
+SN_F8513926CD,Crown Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Not-Functional,7.343192,3.872313
+SN_1786570092,Ayekale Primary Health Centre,Ibadan North East,Agugu,Primary Health Center,Public,Unknown,7.377423,3.927845
+SN_E4921AAA98,Oke Ado Health Care Center,Ibadan South West,Molete/Oke Ado,Primary Health Center,Public,Functional,7.383318,3.877395
+SN_0CE3F88D9A,Raji Akande Health Centre,Ibadan South East,Oke-Oluokun,Primary Health Center,Public,Unknown,7.362429,3.901948
+SN_E60CE8A202,Felewa Hospital Maternity,Ibadan South West,Oke Ado/Liberty,Hospital,Private,Functional,7.363198,3.884200
+SN_EE3A2B335A,Adisa I Memorial Primary Health Center,Ibadan North,Agbowo,Primary Health Center,Public,Functional,7.447928,3.911102
+SN_7FFC2F6863,Goodnews Maternity And Child Welfare Clinic,Ibadan South West,Apata/Odo Ona,Primary Health Clinic,Private,Not-Functional,7.372537,3.851965
+SN_FA9F60D40F,Dorjil Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Hospital,Private,Functional,7.354188,3.883532
+SN_FBF0C5C83E,Ilua Primary Health Center,Ibadan North East,Basorun,Primary Health Center,Public,Functional,7.404635,3.936763
+SN_FCEEB1127F,Tosin Medical Center,Ibadan South East,Beere/Mapo,Medical Center,Private,Functional,7.374477,3.894010
+SN_FCB246E2D8,Elyon Hospital Specialist,Ibadan North East,Basorun,Primary Health Center,Private,Functional,7.403207,3.933507
+SN_1812944CA2,Aged And Widow Clinic,Ibadan North West,Afonta,Clinic,Public,Unknown,7.393006,3.878598
+SN_2D031B5A99,Akeke Primary Health Centre,Ibadan North East,Basorun,Primary Health Center,Public,Functional,7.415710,3.938820
+SN_9E473CEA14,Oyo State College Of Nursing Clinic,Ibadan North West,Eleyele,Primary Health Clinic,Public,Functional,7.409982,3.875066
+SN_7534A6727B,Queen Hospital Specialist,Ibadan North West,Ekotedo,Health Post,Private,Functional,7.392273,3.883118
+SN_4CC9A88BAD,Koladisi Foundation Primary Health Centre,Ibadan North,Yemetu,Primary Health Center,Public,Unknown,7.396214,3.899147
+SN_2E4A5F629F,The Polytechnic Ibadan Health Center,Ibadan North,Samonda,Primary Health Center,Public,Functional,7.437260,3.885267
+SN_1F0F4ACBD7,Bolatife Maternity And Child Welfare Clinic,Ibadan North West,Oritamerin,Primary Health Clinic,Private,Functional,7.380345,3.890616
+SN_A77ED22854,Aged And Widow Primary Health Centre,Ibadan North,Agodi,Primary Health Center,Public,Unknown,7.396485,3.918867
+SN_4F63FC31C7,Temilade Maternity Clinic,Ibadan South East,Oja'Ba,Primary Health Center,Private,Functional,7.372195,3.895979
+SN_87B7971558,Felele Primary Health Centre,Ibadan South East,Challenge,Primary Health Center,Public,Unknown,7.344197,3.889451
+SN_317595304E,Oriaje Health Post,Ibadan South East,Molete,Health Post,Public,Functional,7.358312,3.900065
+SN_DB7DAD949B,Omowumi Primary Health Centre,Ibadan North East,Aperin,Primary Health Center,Public,Unknown,7.365538,3.925122
+SN_E8DEA9DCF7,Beloved Maternity And Child Welfare,Ibadan South East,Owode,Primary Health Clinic,Private,Functional,7.345701,3.915417
+SN_13ECB74FB4,Ajegunle Primary Health Centre,Ibadan North East,Aperin,Primary Health Center,Public,Not-Functional,7.367315,3.924725
+SN_025AEBE83B,Elewura Primary Health Care Center,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Center,Public,Functional,7.347835,3.874087
+SN_8621A4E35D,Agbaje Health Centre,Ibadan North West,Agbaje/Idikan,Primary Health Center,Public,Unknown,7.377988,3.890930
+SN_9CEB7C87B4,Blossom Care Family Health Hospital,Ibadan North West,Afonta,Primary Health Clinic,Private,Functional,7.389520,3.878680
+SN_6F9DA71C38,Molete Tuberculosis And Leprosy Clinic,Ibadan South West,Molete/Oke Ado,Primary Health Clinic,Public,Functional,7.360322,3.889310
+SN_524E8B945E,Premier Hospital And Ultrasound Center,Ibadan South West,Foko/Ologede,Hospital,Private,Functional,7.372108,3.881718
+SN_259D1812D0,Owode Primary Health Centre,Ibadan South East,Owode,Primary Health Center,Public,Unknown,7.348603,3.913263
+SN_A6CE95EB8B,Unity Hospital,Ibadan North West,Eleyele,Primary Health Center,Private,Functional,7.416077,3.862122
+SN_02384FB03B,Aged And Widow Primary Health Centre,Ibadan North East,Basorun,Clinic,Public,Unknown,7.411060,3.932622
+SN_8F96BF3805,Ile Aperin Primary Health Centre,Ibadan North East,Aperin,Primary Health Center,Public,Unknown,7.371692,3.913592
+SN_1310CF6C47,Adeoye Memorial Hospital Specialist,Ibadan North West,Ekotedo,Primary Health Center,Private,Functional,7.393830,3.884948
+SN_C5C7AAC1DB,Basorun Primary Health Centre,Ibadan North,Bashorun,Primary Health Center,Public,Unknown,7.415261,3.932418
+SN_C9075E64B3,Glady'S Hill Hospital,Ibadan South East,Molete,Primary Health Center,Public,Functional,7.355520,3.893679
+SN_74C6E4F551,Lagelu Youth Friendly Clinic,Ibadan North East,Agugu,Primary Health Center,Public,Functional,7.383728,3.926697
+SN_6F3ECEB7EC,St Macrina Limited Hospital,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Clinic,Private,Functional,7.359613,3.872047
+SN_8D57C78A46,Oniwumi Medical Center,Ibadan North East,Basorun,Primary Health Center,Private,Not-Functional,7.401227,3.940155
+SN_C6B3DF3B81,Nigerian Railway Hospital,Ibadan North West,Afonta,Primary Health Clinic,Public,Functional,7.388597,3.873939
+SN_66A7CE12A6,Iwo Road Primary Health Centre,Ibadan North East,Basorun,Primary Health Center,Public,Unknown,7.404305,3.933772
+SN_31579F7D9A,Olorombo Primary Health Clinic,Ibadan North East,Basorun,Primary Health Center,Public,Functional,7.415742,3.938837
+SN_228B79278E,O?Bori Efon Primary Health Centre,Ibadan North East,Oranyan,Primary Health Center,Public,Unknown,7.375614,3.902435
+SN_9DC3921CA3,Oke Apon /  Yemetu Primary Health Centre,Ibadan North,Yemetu,Primary Health Center,Public,Functional,,
+SN_8BF98EA08F,Estate Primary Health Care Clinic,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Center,Public,Functional,7.366292,3.855812
+SN_51CC2BC4D2,Government College Primary Health Centre,Ibadan South West,Apata/Odo Ona,Primary Health Center,Public,Unknown,7.382199,3.830821
+SN_965C1DFDE8,Tony Hospital,Ibadan North West,Inalende,General Hospital,Private,Functional,7.394287,3.889709
+SN_51172429E4,Odinjo Primary Health Center,Ibadan South East,Odinjo,Primary Health Center,Public,Functional,7.359101,3.913186
+SN_5C1C1979BB,Naomi Medical Center,Ibadan North West,Abebi,Primary Health Center,Private,Functional,7.387810,3.887110
+SN_EDDD55AE2E,Orita Health Centre,Ibadan South East,Challenge,Primary Health Center,Public,Unknown,7.339366,3.872158
+SN_06839EF936,Mokola Army Barracks Hospital,Ibadan North West,Ekotedo,Primary Health Clinic,Public,Functional,7.415030,3.885420
+SN_F3B7CDE4C2,Mola Hospital,Ibadan South East,Owode,Primary Health Clinic,Private,Functional,7.354577,3.904259
+SN_9DF37992A6,Oranmiyan Primary Health Centre,Ibadan South East,Oranyan,Primary Health Center,Public,Unknown,7.375290,3.901035
+SN_879D9C441D,Atipe Primary Health Centre,Ibadan North East,Atipe,Primary Health Center,Public,Unknown,7.378550,3.912126
+SN_49EE3D7C50,Continental Medical Center,Ibadan South East,Challenge,Unclassified,Private,Functional,7.346452,3.878995
+SN_CB3FFDA1BD,Kososi Primary Health Centre,Ibadan South West,Ita Aregbeomo,Primary Health Center,Public,Unknown,7.370143,3.892307
+SN_88ECD49CB6,Mapo Primary Health Centre,Ibadan South East,Beere/Mapo,Primary Health Center,Public,Unknown,7.376672,3.897739
+SN_28BAEFF614,Kobomoje Health Centre,Ibadan South East,Kobomoje,Primary Health Center,Public,Unknown,7.369308,3.898180
+SN_C439FF5553,Oke Are Primary Health Centre,Ibadan North,Oke Are,Primary Health Center,Public,Unknown,7.381942,3.897513
+SN_088AB47658,Lagelu Ilupeju Health Centre,Ibadan North East,Agugu,Primary Health Center,Public,Unknown,7.386464,3.927520
+SN_1DCFF9D045,Okeseni Health Centre,Ibadan North West,Idikan/Olorisaoko,Primary Health Center,Public,Unknown,7.384799,3.888237
+SN_2165091626,Elekuro Health Centre,Ibadan South East,Asanike,Primary Health Center,Public,Unknown,7.369715,3.908155
+SN_2ADDB39C06,Oluyole Primary Health Centre,Ibadan South West,Molete/Oke Ado,Clinic,Public,Unknown,7.360320,3.889282
+SN_2B4A504176,Akeke Olorounbo Primary Health Centre,Ibadan North East,Basorun,Primary Health Center,Public,Unknown,7.408939,3.941031
+SN_33CCEC2039,Yemetu / Oke-Apon Primary Health Centre,Ibadan North,Yemetu,Primary Health Center,Public,Unknown,7.396001,3.908638
+SN_39C3780C51,Aged And Widow Clinic,Ibadan South West,Ring Road/Challenge/Oluyole,Clinic,Public,Unknown,7.365990,3.855842
+SN_5362CE00FD,Molete Primary Health Care,Ibadan South East,Molete,Health Post,Public,Unknown,7.358159,3.899944
+SN_578D2B05F4,Ashi Primary Health Centre,Ibadan North East,Basorun,Primary Health Center,Public,Unknown,7.415791,3.938741
+SN_6EF058F0EF,Idera Oluwa Primary Health Centre,Ibadan North East,Agugu,Health Post,Public,Unknown,7.383570,3.926848
+SN_724A228916,Sango ( Akorede ) Primary Health Centre,Ibadan North,Sango,Primary Health Center,Public,Unknown,7.427243,3.893355
+SN_73BE48F54B,Idikan Community Health Clinic,Ibadan North West,Idikan/Olorisaoko,Clinic,Public,Unknown,7.383338,3.891051
+SN_896F82AFE0,Odinjo Primary Health Centre,Ibadan South East,Beere/Mapo,Primary Health Center,Public,Unknown,7.376488,3.897452
+SN_8DABFCBA45,Okebadan Health Centre,Ibadan North East,Oke Adu,Primary Health Center,Public,Unknown,7.387382,3.922457
+SN_9E9387EC35,Oriaje Primary Health Care,Ibadan South East,Molete,Primary Health Center,Public,Unknown,7.357167,3.888227
+SN_A0185FB66F,Lagelu Youth Friendly Primary Health Centre,Ibadan North East,Agugu,Primary Health Center,Public,Unknown,7.384227,3.932092
+SN_A951C6C649,Molete Tuberculosis And Leprosy Clinic,Ibadan South West,Alesinloye,Primary Health Center,Public,Unknown,7.388537,3.871084
+SN_B31E9A98D8,Idea Oluwa Primary Health Centre,Ibadan North East,Agugu,Primary Health Center,Public,Unknown,7.384171,3.932070
+SN_B804304A16,Apologies Health Centre,Ibadan North East,Oja Gbo,Primary Health Center,Public,Unknown,7.373043,3.906035
+SN_B8829E861A,Opoyeosa Primary Health Centre,Ibadan North West,Asukuna,Primary Health Center,Public,Unknown,7.382557,3.893424
+SN_BA8A58EC92,Idi Ogungun Primary Health Centre,Ibadan North,Agodi,Primary Health Center,Public,Unknown,7.394911,3.917751
+SN_C0E5153A49,Elewura Primary Health Care,Ibadan South West,Ring Road/Challenge/Oluyole,Clinic,Public,Unknown,7.366262,3.855867
+SN_C5D1AF38E4,"B.C.O.S. , Basorun Clinic",Ibadan North East,Basorun,Health Post,Public,Unknown,7.404871,3.933792
+SN_CA43266CEC,Eyin Girama. Primary Health Centre,Ibadan South East,Molete,Primary Health Center,Public,Unknown,7.346362,3.893085
+SN_EBE0F9ABAD,Jimoh Atilola Adedigba Primary Health Centre,Ibadan South West,Oke Ado/Liberty,Primary Health Center,Public,Unknown,7.373521,3.875089
+SN_F7B0FADC27,Alesinleloye Primary Health Care,Ibadan South West,Ring Road/Challenge/Oluyole,Primary Health Center,Public,Unknown,7.369197,3.859707
+SN_FCAB9FF41D,Ifesowapo Primary Health Centre,Ibadan North East,Basorun,Primary Health Center,Public,Unknown,7.419757,3.931262
