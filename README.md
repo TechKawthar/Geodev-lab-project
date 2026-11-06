@@ -9,3 +9,6 @@ Set up the project with uv and added pandas. check.py prints the pandas version.
 
 # week 7 
 Analyse.py reads wards.csv, converts each area and classifies each ward.
+
+# Week 8
+inspect_data.py summarises depth in my ibadan metropolis phc
