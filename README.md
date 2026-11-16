@@ -12,3 +12,6 @@ Analyse.py reads wards.csv, converts each area and classifies each ward.
 
 # Week 8
 inspect_data.py summarises depth in my ibadan metropolis phc
+
+## MONTH 3 : Geospatial python and Automation
+- Week 10: Geopandas. loaded, checked, joined and mapped by ward layer in code
